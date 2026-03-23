@@ -1,6 +1,6 @@
 This is will be a space to showcase some ongoing/in progress projects in the works.
 
-See EDA folder for all Jupyter notebook projects
+See Exploratory Data Analysis (EDA) folder for all Jupyter notebook projects
 
 Dashboards:
 
