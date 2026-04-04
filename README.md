@@ -5,5 +5,4 @@ See Exploratory Data Analysis (EDA) folder for all Jupyter notebook projects
 Dashboards:
 \
 [Tableau Page](https://public.tableau.com/app/profile/simone.boyd/vizzes) \
-[ODSA Final Project](https://public.tableau.com/app/profile/simone.boyd/viz/ODSAFinalProject_17597986927740/SelfServiceDashboard)
 
