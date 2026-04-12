@@ -4,7 +4,7 @@
 
 ## Dataset
 
-- Source: `data_sources/healthcare data/health_kaggle_data_realistic.csv`
+- Source: `.../health_kaggle_data_realistic.csv`
 - Volume: 55,500 records
 - Original fields: 15 columns
 - Admission date range: 2019-05-08 to 2024-05-07
@@ -26,7 +26,7 @@
    - Total admission duration by blood type
    - Average admission duration by age
 7. Exports a processed CSV to:
-   `C:\Users\sboyd\OneDrive\Desktop\Data Analyst Projects\Data Sources\health_kaggle_data.csv`
+   `...\health_kaggle_data.csv`
 
 ## Key Findings (From Notebook Logic)
 
