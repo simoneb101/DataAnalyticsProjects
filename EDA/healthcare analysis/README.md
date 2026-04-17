@@ -38,8 +38,3 @@
 - Total stay days by blood type are close, with `B+` highest and `O+` lowest, suggesting no large blood-type-driven gap in aggregate stay burden.
 - Highest combined billing totals appear in specific hospital-doctor pairs (top pair slightly above 104K in billing amount).
 - Average stay by age varies modestly; most ages cluster near the overall mean, with a few outlier ages showing longer/shorter averages.
-
-## Notes
-
-- The notebook is code-focused and currently has little markdown narration.
-- Charts are interactive Plotly visualizations rendered inline.
